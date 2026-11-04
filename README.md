@@ -1,15 +1,5 @@
 # ReZeN-Raycast-Projectile
 
---[[
-
-██████╗          
-██╔══██╗  ███████╗
-██████╔╝  ██╔════╝
-██╔══██╗  █████╗  
-██║     ██║  ██╔══╝  
-██║     ██║  ███████╗
-╚═╝     ╚═╝  ╚══════╝ 
-
 # ReZeN's Raycast Projectile
 
 Raycast-based projectiles for Roblox: server simulation, client rendering,
@@ -110,4 +100,3 @@ Explosion template:
 
 Discord: petrensky2523
 Roblox: ReZeN_DevS
-]]
