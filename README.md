@@ -1,7 +1,5 @@
 # ReZeN-Raycast-Projectile
 
-# ReZeN's Raycast Projectile
-
 Raycast-based projectiles for Roblox: server simulation, client rendering,
 damage, hit/expire callbacks, pierce, hit bindings and a shared explosion effect.
 
